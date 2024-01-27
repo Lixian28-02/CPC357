@@ -1,0 +1,52 @@
+distance Motion Raining
+0 0 1
+0 0 1
+0 0 1
+78 1 1
+78 1 1
+78 1 1  # a car drives through
+78 1 1
+78 1 1
+0 1 1
+0 0 1
+0 0 1
+0 0 1
+78 1 1
+78 1 1
+78 0 1
+78 0 1 # a car drives and stop, then go again
+78 1 1
+78 1 1
+78 1 1
+0 0 1
+0 0 1
+78 1 1 # a person walks pass
+78 1 1
+0 0 1
+0 0 1
+0 0 1
+78 1 1
+78 0 1
+78 0 1
+78 0 1
+78 0 1  # a person walk and stop, then walk again
+78 0 1
+78 0 1
+78 0 1
+78 1 1
+0 0 1
+0 0 1
+0 0 1
+78 1 1
+78 0 1
+78 0 1
+78 1 1
+78 0 1 # a car move and stop alternately
+78 1 1
+78 0 1
+78 0 1
+78 1 1
+0 0 1
+0 0 1
+76 1 1 # a person walk pass quickly
+0 0 1
